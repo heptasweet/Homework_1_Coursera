@@ -1,0 +1,30 @@
+body{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150%;
+}
+header{
+    background-color: aqua;
+}
+nav{
+    background-color: greenyellow;
+}
+main{
+    background-color: wheat;
+    font-size: 75%;
+}
+footer{
+    background-color: yellow;
+}
+li{
+    text-align: center;
+    display:inline-block;
+    width: 300px;
+}
+h1{
+    text-align:center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:darkorange;
+}
+p{
+    line-height:50px;
+}
